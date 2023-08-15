@@ -10,7 +10,7 @@ En el transcurso de la carrera, cuestioné mi futuro y la carrera elegida, así 
 ## Datos adicionales
 Trabajo en el Marketing Digital, especialmente soy Community Manager, me dedico a todo lo que se relacione con redes sociales, desde diseñar un video hasta crear un calendario de contenidos.
 
-Además, continúo estudiante en el rubro y mi idea es sumar programación de páginas web a mi trabajo actual.
+Además, continúo estudiando en el rubro y mi idea es sumar programación de páginas web a mi trabajo actual.
 
 ### Gustos y preferencias
 * Idioma Inglés
