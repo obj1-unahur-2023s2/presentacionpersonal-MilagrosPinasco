@@ -1,38 +1,19 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/foto%20perfil.jpg)
 
-Bienvenidos a
-# Programación con objetos I
+# Alumna
+Milagros Pinasco, estudiante de la **Tecnicatura en Programación**
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Empecé en la UNAHUR en el año 2020 en la carrera de Profesorado de Inglés porque me apasionan los idiomas, particularmente Inglés.
+En el transcurso de la carrera, cuestioné mi futuro y la carrera elegida, así que decidí abandonar y comencé en 2021 en Programación ya que me genera mucho interés y me parece sumamente entretenido.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## Datos adicionales
+Trabajo en el Marketing Digital, especialmente soy Community Manager, me dedico a todo lo que se relacione con redes sociales, desde diseñar un video hasta crear un calendario de contenidos.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Además, continúo estudiante en el rubro y mi idea es sumar programación de páginas web a mi trabajo actual.
 
-### Presentacion Personal
+### Gustos y preferencias
+* Idioma Inglés
+* Marketing Digital
+* Comida italiana
 
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
